@@ -1,6 +1,6 @@
 # Rocketreach.co Data Scapper
 
-The task was: 
+#### The task was: 
 
         https://rocketreach.co/educational-employees-credit-union-email-format_b5c91e71f42e36e2
 
@@ -20,3 +20,9 @@ The task was:
 (1) Name
 (2) Position
 (3) Social Links
+
+#### After you run the code you'll get this:
+
+|Rocketreach.co Profile Link|Name|Position|Facebook Profile link|LinkedIn Profile Link|
+|https://rocketreach.co/mark-perez-email_5926893|Mark Perez|Educational Employees Credit Union||https://www.linkedin.com/in/mark-perez-631a8a16|
+|https://rocketreach.co/barbara-berken-email_5926839|Barbara Berken|President/CEO|http://www.facebook.com/barbara.berken|https://www.linkedin.com/in/barbara-berken-7838a332|
