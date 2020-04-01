@@ -21,6 +21,6 @@
 (2) Position
 (3) Social Links
 
-#### After you run the code you'll get this:
+#### After you run the code you'll get this (.csv file without header):
 
 ![alt text](http://joxi.ru/BA0RaQxhMd58km.jpg "Result")
